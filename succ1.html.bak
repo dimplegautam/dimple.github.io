@@ -1,0 +1,38 @@
+<!doctype html>
+<head>
+<style>
+body{
+    background-image: url("ticks.jpg");
+    background-repeat: no-repeat;
+    background-size: 2000px;
+    color: white;
+}
+.top{
+     background-color: #d1c6e7;
+    margin-left: 550px;
+    margin-right: 550px;
+}
+.top a{
+    text-decoration: none;
+}
+</style>
+</head>
+</body>
+
+<div id="grad1" style="text-align:center;margin:auto;color:rgb(255, 255, 255); font-weight:bold">
+
+<br>
+<br>
+<br>
+<img src="right.jpg" width="100px" height="100px"></img>
+<center><p><b><font face="Calibri" SIZE="450PX">Transaction Successfully</b></font></p>
+</center>
+ 
+        <div class="top">
+        <a href="START.html">
+            <h1>OK</h1>
+        </a>
+    </div>
+</body>
+</head>
+</html>

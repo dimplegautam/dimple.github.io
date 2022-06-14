@@ -1,0 +1,124 @@
+<!Doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Payment Form</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<style>
+    body{
+        background-image: url("payment\ image.jpg");
+        background-size: 100%;
+        background-repeat: no-repeat;
+        font-size: 20px;
+        color: #f1a926;
+     
+/* background-color: blue ;
+color: white;
+background-image: linear-gradient(to right,blue,white,indigo); */
+    }
+    .a{
+      
+    }
+    
+    .owner{
+        display: block;
+        float: left;
+    }
+    .b{
+        background-color: #43BFC7;
+        border: 1px solid black;
+        margin: 30px 1083px 0px 0px;
+    }
+    .b a{
+        color: white;
+        text-decoration: none;
+        padding: 20px 0px 10px 0px;
+        text-align: center;
+    }
+    .cvv{
+        margin: 0px 0px 0px 185px;
+        display: inline-block;
+    }
+    .logo{
+        border-radius: 20px;
+    }
+    .logo img{
+        margin: 0px 26px 0px 0px ;
+        width: 80px;
+        height: 65px;
+        padding: 0px 0px 0px 70px;
+
+    }
+</style>
+<body>   
+    <div class="a">
+     
+    </div>
+        <div class="container">
+            <h1>confirm your Payment</h1>
+            <div class="first-row">
+            <div class="owner">
+                <h3>owner</h3>
+                <div class="input-field">
+                    <input type="text">
+                </div>
+            </div>
+            <div class="cvv">
+                <h3>CVV</h3>
+                <div class="input-field">
+                    <input type="password"
+                </div>
+            </div>
+        </div>
+        <div class="second-row">
+            <div class="card-number">
+                <h3>Card number</h3>
+<div class="input-field">
+<input type="text"
+</div>
+</div>
+</div>
+<div class="third-row">
+    
+    <h3>Card number</h3>
+    <div class="selection">
+        <div class="date">
+            <select name="months" id="month">
+                <option value="Jan">Jan</option>
+                <option value="Feb">Feb</option>
+                <option value="Mar">Mar</option>
+                <option value="Apr">Apr</option>
+                <option value="May">May</option>
+                <option value="Jun">Jun</option>
+<option value="Jul">Jul</option>
+<option value="Aug">Aug</option>
+<option value="Sep">Sep</option>
+<option value="Oct">Oct</option>
+<option value="Nov">Nov</option>
+<option value="Dec">Dec</option>
+</select>
+<select name="years" id="years">
+    <option value="2022">2022</option>
+    <option value="2021">2021</option>
+    <option value="2020">2020</option>
+    <option value="2019">2019</option>
+    <option value="2018">2018</option>
+    <option value="2017">2017</option>
+</select>
+</div>
+<div class="logo">
+    <img src="logo/card.png" alt="">
+    <img src="logo/paypal.png" alt="">
+    <img src="logo/visa.png" alt="">
+</div>
+</div>
+</div>
+</div>
+<div class="b">
+    <a href="">
+        <h3>CONFIRM</h3>
+    </a>
+</div>
+</body>
+</html>

@@ -1,0 +1,69 @@
+<!doctype html>
+<head>
+<style>
+#grad1 {
+height:1000px;
+background-color: blue ;
+background-image: linear-gradient(to right,blue,white,indigo);
+}
+</style>
+</head>
+</body>
+
+<div id="grad1" style="text-align:center;margin:auto;color:black; font-weight:bold">
+
+<center>
+<IMG SRC="webimage.jpg" Width="350px" Height="200px">
+
+</img>
+</center>
+
+<P STYLE "TEXT-ALIGN:CENTER" size="30px"> 
+Website design courses are provided to train people in designing websites with latest techniques using html5, css3 and bootstrap framework .<br>
+<br><br> Whichever website you see and use on the internet, is prepared by specialized designing technology. 
+<br><br>Many people think that they can prepare their website by using whatever little knowledge they have, but it does not work. 
+<br><br>The Search engine ranks only those WebPages, which contain useful features for the users.
+<br>
+You can apply some tools like different softwares to create your website, but you cannot bring a professional touch to it, without taking the help of web-design services.
+<br><br> This is the reason why there is a huge demand of web- designing experts in the market today.<br> So, we are offering you a complete course in which you can learn how to make a website and prepare it for drawing better traffic
+<br>
+
+
+<br></P>
+ <table BORDER="3" CELLPADDING="8" ALIGN="CENTER">
+            <tr>
+                <td>S.NO </td>
+                <td>&nbsp;</td>
+                <td>Duration<br>
+                   <td>&nbsp;</td>
+                <td>fees<br>
+                    
+                <td>&nbsp;</td>
+                <td>Days</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>&nbsp;</td>
+                <td>40 hrs.<br>
+                    <td>&nbsp;</td>
+                <td>25,00</td>
+                <td>&nbsp;</td>
+                <td>Mon-Fri</td>
+                </tr>
+				<tr>
+				 <td>2</td>
+                <td>&nbsp;</td>
+                <td>3 Months <br>
+                    <td>&nbsp;</td>
+                <td>45,00</td>
+                <td>&nbsp;</td>
+                <td>Mon-Fri</td>
+                </tr>
+				
+        </table>
+        <br>
+        <br>
+		</div>
+</body>
+</head>
+</html>

@@ -1,0 +1,47 @@
+<!doctype html>
+<head>
+<style>
+#grad1 {
+height:1000px;
+background-color: pink ;
+background-image: linear-gradient(to pink,grey);
+}
+</style>
+</head>
+</body>
+
+<div id="grad1" style="text-align:center;margin:auto;color:black; font-weight:bold">
+
+<IMG SRC="Tally_-_Logo.png" Width="200px" Height="200px">
+</img>
+
+<P STYLE "TEXT-ALIGN:CENTER" size="30px"> 
+Advanced Tally ERP 9 Release 9.6 is widely utilized in extensive accounting, inventory, accounts receivables, accounts payable, billing, payroll and taxation software which is considered as one of the best accounting tools available in the industries.<br> Tally ERP 9.6 is a tool used by individuals and business organisations to maintain their accounting records and monetary transactions. <br>However, Tally is now currently being used extensively for calculating TDS, Income Tax and GST.<br> The latest version of the Tally ERP 9 Accounting Software includes quick GST set up that would allow you to compute taxes without any delay and support all the GST transactions for your business. <br>Tally ERP 9 Training Course with GST will cover all the end of knowledge of Accounting requirements of the industry and teach the concepts along with practical usage in day to day Accounting processes. <br>Any aspiring Tally Professional must learn the importance of Tally ERP 9.6 Software. <br>
+<br></P>
+ <table BORDER="3" CELLPADDING="8" ALIGN="CENTER">
+            <tr>
+                <td>S.NO </td>
+                <td>&nbsp;</td>
+                <td>Duration<br>
+                   <td>&nbsp;</td>
+                <td>fees<br>
+                    
+                <td>&nbsp;</td>
+                <td>Days</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>&nbsp;</td>
+                <td>3 months <br>
+                    <td>&nbsp;</td>
+                <td>35,00</td>
+                <td>&nbsp;</td>
+                <td>Mon-Fri</td>
+                </tr>
+        </table>
+        <br>
+        <br>
+		</div>
+</body>
+</head>
+</html>

@@ -1,0 +1,57 @@
+<!doctype html>
+<head>
+<style>
+#grad1 {
+height:1000px;
+background-color: blue ;
+background-image: linear-gradient(to right,blue,white,indigo);
+}
+</style>
+</head>
+</body>
+
+<div id="grad1" style="text-align:center;margin:auto;color:black; font-weight:bold">
+
+
+<center>
+<IMG SRC="download.png" Width="300px" Height="200px">
+</img>
+</center>
+
+<P STYLE "TEXT-ALIGN:CENTER" size="30px"> 
+This program is for people who have little knowledge of English and hesitant to speak English. We aim to develop proficiency in the English Language. <br>We work upon their grammar, help them build their word power, and groom their personality so that they have not only a rich knowledge but also a confident personality for effective communication.<br>
+<br>
+The course has 4 modules: Basic Grammar + Vocabulary + Spoken English + Personality Development. <br>These four modules work upon different aspects and lay a solid foundation of language.
+<br>
+The basic methodology of the course is to engage you in various activities that help you feel like real-life situations.<br> The courseware has been developed keeping the practical aspect of the learning.
+<br>
+
+
+<br></P>
+ <table BORDER="3" CELLPADDING="8" ALIGN="CENTER">
+            <tr>
+                <td>S.NO </td>
+                <td>&nbsp;</td>
+                <td>Duration<br>
+                   <td>&nbsp;</td>
+                <td>fees<br>
+                    
+                <td>&nbsp;</td>
+                <td>Days</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>&nbsp;</td>
+                <td>3 Months <br>
+                    <td>&nbsp;</td>
+                <td>999</td>
+                <td>&nbsp;</td>
+                <td>Mon-Fri</td>
+                </tr>
+        </table>
+        <br>
+        <br>
+		</div>
+</body>
+</head>
+</html>

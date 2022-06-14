@@ -1,0 +1,37 @@
+<!doctype html>
+<head>
+<style>
+body{
+    background-image: url("bg 6.jpg");
+    background-repeat: no-repeat;
+    background-size: 1400px;
+    color: white;
+}
+.top{
+     background-color: #d1c6e7;
+    margin-left: 550px;
+    margin-right: 550px;
+}
+.top a{
+    text-decoration: none;
+}
+</style>
+</head>
+</body>
+
+<div id="grad1" style="text-align:center;margin:auto;color:rgb(255, 255, 255); font-weight:bold">
+
+<br>
+<br>
+<br>
+<center><p><b><font face="Calibri" SIZE="450PX">Your Response has been submitted !!</b></font></p>
+</center>
+ 
+        <div class="top">
+        <a href="pay1.html">
+            <h1>PAYMENT</h1>
+        </a>
+    </div>
+</body>
+</head>
+</html>

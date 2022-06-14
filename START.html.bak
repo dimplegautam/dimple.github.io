@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+</head>
+<div id="grad1" style="text-align:center;margin:auto;color:rgb(255, 248, 248); font-weight:bold">
+    <style>
+        #grad1 {
+            margin: 0px;
+            padding: 0%;
+            /* background-color: blue ;
+            background-image: linear-gradient(to right,blue,white,indigo); */
+        }
+        
+        
+        body {
+            /* margin: 0%;
+            padding: 0%; */
+            font-size: 28px;
+            /* height: 2000px; */
+            background-image: url("bg\ 2\ about.jpg");
+            /* background-repeat: no-repeat; */
+        }
+    
+    
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #333;
+      position: -webkit-sticky; /* Safari */
+      position: sticky;
+      top: 0;
+    }
+    
+    li {
+      float: left;
+    }
+    
+    li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    
+    li a:hover {
+      background-color: blue;
+    }
+    
+    .active {
+      background-color: #43BFC7;
+    }
+    @media all and (max-width: 959px) {
+
+.content .MobileView {
+    display: block;
+}
+
+.content .DesktopView {
+    display: none;
+}
+}
+
+@media all and (min-width: 500px) {
+
+.content .MobileView {
+    display: none;
+}
+
+.content .DesktopView {
+    display: block;
+}
+}
+
+.dimple{
+    margin: -83px 947px 0px -120px;
+    
+}
+.dimple a{
+    color: black;
+  /* color: red; */
+  text-decoration: none;
+
+    
+}
+.dimple ion-icon {
+    width: 70px;
+    height: 70px;
+}
+.search{
+    margin-left: 600px;
+    padding: 5px 0px 5px 0px;
+
+}
+</style>
+
+<body>
+    
+<div class="header">
+    <div>
+  
+  <ul>
+    <li><a class="active" href="homed.html">Home</a></li>
+    <li><a href="about.html">About us</a></li>
+    <li><a class="active" href="homensic.html">Courses </a></li>
+     
+  <li><a href="contactc.html">Contact</a></li>
+  <form action="payment.html" target="_blank" method="get"class="navbar-form" >
+  <form action="homensic.html" target="_blank" method="get"class="navbar-form" >
+  <form action=".html" target="_blank" method="get"class="navbar-form" >
+  <form action=".html" target="_blank" method="get"class="navbar-form" >
+  <form action=".html" target="_blank" method="get"class="navbar-form" >
+     <input type="search" placeholder="search here" class="search">
+  </form>
+  </ul>
+  <center>
+      <img src="logo.jpg" alt="snow" style="width:150px" height="150px">
+      </img>
+      </center>
+      <hr>
+      <h1><font face="castellar" SIZE="7PX">C & C caffe....<left-side></font>
+      <BR>
+      <font face="castellar" SIZE="4PX">Develop your Computers & English Communication Skills</font>
+      <br>
+      <center><b><font face="Arial Narrow" size="26px"><center>ONLINE COURSES</b></font></center>
+      <br>
+       <center>
+           
+<body class="top-navigation" id="bodymain">
+	
+    <div id="wrapper">
+            <div id="page-wrapper" class="white-bg">
+                <div class="row border-bottom">
+                    <nav class="navbar navbar-fixed-top" role="navigation">
+                        <div class="navbar-header blue-bg">
+                            <button aria-controls="navbar" aria-expanded="false" data-target="#navbar" data-toggle="collapse" class="navbar-toggle collapsed blue-bg" type="button">
+                                <i class="fa fa-reorder"></i>
+                            </button>
+                                                   <ul class="folder-list m-b-md" style="padding: 0">
+                                    
+                                </ul>
+                                                         <ul class="folder-list m-b-md" style="padding: 0">
+            <li><a class="btn btn-success font-bold" style="text-align: left; padding-left: 10px;" href="PPPMode"><i class="fa fa-file-text-o"></i><span class="text-white"><center>Adst Vocational Center,</span></a></li>
+                                                       <li><a class="btn btn-success font-bold" style="text-align: left; padding-left: 10px;" href="MaterialTestingLabs"><i class="fa fa-file-text-o"></i><span class="text-white"><center>Training Center in Delhi</span></a></li></center>
+                                </ul>
+                                <div class="clearfix"></div>
+                           
+                <div class="col-lg-9 animated fadeInRight">
+                    
+        <div class="mail-box-header">
+            <h2 class="text-danger">
+                                </a>
+                            
+                </tr>
+                    </tbody>
+                    </table>
+                    <IMG SRC="01.jpg" Width="400px" Height="300px">
+                    </img>
+                    
+                    <IMG SRC="04.jpg" Width="400px" Height="300px">
+                    </img>
+                    
+                    <IMG SRC="pic 2.jpg" Width="400px" Height="300px">
+                    </img>
+                    <br>
+                    
+                    
+                    <IMG SRC="03.jpg" Width="400px" Height="300px">
+                    </img>
+                    
+                    
+                    
+                    <IMG SRC="pic 3.jpg" Width="400px" Height="300px">
+                    </img>
+                    
+                    <IMG SRC="images6.png" Width="400px" Height="300px">
+                    </img>
+                    <br>
+                    
+                    <IMG SRC="02.jpg" Width="400px" Height="300px">
+                    </center>
+                    <hr>
+                    </img>
+                    <br>
+                    <div class="dimple">
+                        <a href="">
+                            <ion-icon  name="logo-youtube" ></ion-icon>
+                        </a>
+                       <a href="">
+                           <ion-icon name="logo-facebook"></ion-icon> 
+                       </a>
+                       <a href="">
+                           <ion-icon name="logo-instagram"></ion-icon>
+                       </a>
+                    </div>
+                    </div>
+
+</body>
+</html>
